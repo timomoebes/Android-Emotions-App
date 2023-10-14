@@ -1,3 +1,3 @@
 # Android Emotions App
- 
-Imagine the Android Emotions App as a phone game. When you share your feelings with it, it responds and asks more to either cheer you up or discuss your feelings further. It's like having a small buddy in your phone to converse with and inquire about your mood!
+
+Think of the Android Emotions App as a game on your phone. When you tell the game how you feel, it answers you and asks you a new question to help you feel better or chat more about your feelings. It's like a little friend in your phone that can talk to you and ask you questions depending on how you're feeling!
